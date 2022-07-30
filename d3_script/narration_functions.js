@@ -149,7 +149,7 @@ async function renderGDPLifeChart() {
         })
         .on("click" , function(event , d){
 
-            window.location = "life_expectancy.html?country=" + d.Country;
+            window.location = encodeURI("life_expectancy.html?country=" + d.Country);
         })
     ;
 
@@ -157,14 +157,6 @@ async function renderGDPLifeChart() {
 
     renderLegend(svg,["Low income" , "Upper middle income" , "Lower middle income" , "High income" ],width-100, bubbleColor);
 
-    //countryCodesToAnnotate().forEach(function (countryCode) {
-    //    for (let i = 0; i < filteredData.length; i++) {
-    //        if (filteredData[i].code === countryCode) {
-    //            const countryData = filteredData[i];
-    //            renderFirstChartAnnotations(countryData, x(Number(countryData.gdp_per_capita)), y(Number(countryData.average_annual_hours_worked)), margin);
-    //        }
-    //    }
-    //})
 }
 
 
