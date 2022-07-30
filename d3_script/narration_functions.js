@@ -302,7 +302,7 @@ function renderLifeExpectancyAnnotation(d, x, y, margin) {
             x: x,
             y: y,
             dx: -100,
-            dy: -10
+            dy: +30
         },
     ];
     var makeAnnotations = d3.annotation().annotations(annotations);
@@ -463,8 +463,12 @@ async function renderLineChartOfLifeExpectancy() {
 
     console.log(query.length)
 
-    if(typeof query.country != "undefined")
-        update(query.country)
+    if(typeof query.country != "undefined"){
+        console.log(query.country)
+        update(decodeURIComponent(query.country))
+    }
+
+
 
 }
 
