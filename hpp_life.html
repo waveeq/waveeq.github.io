@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CS416 Narrative Visualization </title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="d3_script/narration_functions.js"></script>
+    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+</head>
+<body onload='renderHPPLifeChart()'>
+<div id="hpp-life-scene">
+ <h3>Current Health expenditure per person graphed with life expectancy</h3>
+        <ul>
+            <li >
+              We again see that High income countries have higher life expectancy as expected.
+            </li>
+            <li >
+              We also find that even within those countries the highest spending on health expenditure does not result in the highest life expectancy
+            </li>
+            <li >
+              Clicking on any country will graph their life expectancy
+            </li>
+
+        </ul>
+
+        <div id="hpp-life">
+        </div>
+
+    <a class="btn btn-primary btn-s" href="gdp_life.html" role="button">Previous</a>
+    <a class="btn btn-primary btn-s" href="life_expectancy.html" role="button">Next</a>
+</div>
+</body>
+</html>

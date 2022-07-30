@@ -1,0 +1,217 @@
+﻿Country,IncomeGroup,CountryCode,Year,GDP,Life_expectancy,population
+Afghanistan,Low income,AFG,2020,516.7478708,65.173,38928341
+Albania,Upper middle income,ALB,2020,5246.096346,78.686,2837849
+Algeria,Lower middle income,DZA,2020,3306.858208,77.063,43851043
+American Samoa,Upper middle income,ASM,2020,12844.90099,0,55197
+Andorra,High income,AND,2020,,0,77265
+Angola,Lower middle income,AGO,2020,1776.166868,61.487,32866268
+Antigua and Barbuda,High income,ATG,2020,13992.74448,77.146,97928
+Argentina,Upper middle income,ARG,2020,8579.017773,76.813,45376763
+Armenia,Upper middle income,ARM,2020,4266.018074,75.224,2963234
+Aruba,High income,ABW,2020,,76.434,106766
+Australia,High income,AUS,2020,51680.31652,83.2,25693267
+Austria,High income,AUT,2020,48588.65938,81.19268293,8916864
+Azerbaijan,Upper middle income,AZE,2020,4221.407478,73.123,10093121
+"Bahamas, The",High income,BHS,2020,25194.02514,74.053,393248
+Bahrain,High income,BHR,2020,20409.9528,77.419,1701583
+Bangladesh,Lower middle income,BGD,2020,1961.613749,72.868,164689383
+Barbados,High income,BRB,2020,15373.8547,79.308,287371
+Belarus,Upper middle income,BLR,2020,6424.152176,74.22682927,9379952
+Belgium,High income,BEL,2020,45205.33594,80.79512195,11544241
+Belize,Lower middle income,BLZ,2020,4115.177008,74.754,397621
+Benin,Lower middle income,BEN,2020,1291.040972,62.077,12123198
+Bermuda,High income,BMU,2020,107079.4798,82.05609756,63903
+Bhutan,Lower middle income,BTN,2020,3000.779327,72.08,771612
+Bolivia,Lower middle income,BOL,2020,3133.099803,71.771,11673029
+Bosnia and Herzegovina,Upper middle income,BIH,2020,6079.738285,77.545,3280815
+Botswana,Upper middle income,BWA,2020,6404.899932,69.793,2351625
+Brazil,Upper middle income,BRA,2020,6796.844542,76.084,212559409
+British Virgin Islands,High income,VGB,2020,,0,30237
+Brunei Darussalam,High income,BRN,2020,27442.95383,75.998,437483
+Bulgaria,Upper middle income,BGR,2020,10079.20338,73.60731707,6934015
+Burkina Faso,Low income,BFA,2020,857.9327297,61.981,20903278
+Burundi,Low income,BDI,2020,238.9907259,61.916,11890781
+Cabo Verde,Lower middle income,CPV,2020,3064.272388,73.166,555988
+Cambodia,Lower middle income,KHM,2020,1543.669258,70.054,16718971
+Cameroon,Lower middle income,CMR,2020,1537.130218,59.626,26545864
+Canada,High income,CAN,2020,43258.26387,81.74878049,38037204
+Cayman Islands,High income,CYM,2020,85082.52686,0,65720
+Central African Republic,Low income,CAF,2020,492.7958712,53.679,4829764
+Chad,Low income,TCD,2020,659.270045,54.505,16425859
+Channel Islands,High income,CHI,2020,,83.24,173859
+Chile,High income,CHL,2020,13231.70421,80.329,19116209
+China,Upper middle income,CHN,2020,10434.77519,77.097,1410929362
+Colombia,Upper middle income,COL,2020,5334.556042,77.46,50882884
+Comoros,Lower middle income,COM,2020,1420.661747,64.525,869595
+"Congo, Dem. Rep.",Low income,COD,2020,543.9503925,60.971,89561404
+"Congo, Rep.",Lower middle income,COG,2020,1846.131297,64.804,5518092
+Costa Rica,Upper middle income,CRI,2020,12140.85415,80.465,5094114
+Cote d'Ivoire,Lower middle income,CIV,2020,2325.723705,58.104,26378275
+Croatia,High income,HRV,2020,14132.48656,77.72439024,4047680
+Cuba,Upper middle income,CUB,2020,9477.852873,78.892,11326616
+Curacao,High income,CUW,2020,16752.96526,0,154947
+Cyprus,High income,CYP,2020,27527.84531,81.135,1207361
+Czech Republic,High income,CZE,2020,22933.49959,78.22682927,10697858
+Denmark,High income,DNK,2020,61063.31643,81.55121951,5831404
+Djibouti,Lower middle income,DJI,2020,3425.484176,67.49,988002
+Dominica,Upper middle income,DMA,2020,7003.859021,0,71991
+Dominican Republic,Upper middle income,DOM,2020,7268.19691,74.257,10847904
+Ecuador,Upper middle income,ECU,2020,5600.389615,77.216,17643060
+"Egypt, Arab Rep.",Lower middle income,EGY,2020,3569.206841,72.15,102334403
+El Salvador,Lower middle income,SLV,2020,3798.636521,73.533,6486201
+Equatorial Guinea,Upper middle income,GNQ,2020,7143.238705,59.057,1402985
+Eritrea,Low income,ERI,2020,,66.679,0
+Estonia,High income,EST,2020,23054.35849,78.34634146,1329479
+Eswatini,Lower middle income,SWZ,2020,3424.282212,60.721,1160164
+Ethiopia,Low income,ETH,2020,936.3404611,66.953,114963583
+Faroe Islands,High income,FRO,2020,,83.09268293,48865
+Fiji,Upper middle income,FJI,2020,5057.631913,67.561,896444
+Finland,High income,FIN,2020,48755.35501,82.13170732,5529543
+France,High income,FRA,2020,39037.12263,82.17560976,67379908
+French Polynesia,High income,PYF,2020,,77.836,280904
+Gabon,Upper middle income,GAB,2020,6881.715192,66.69,2225728
+"Gambia, The",Low income,GMB,2020,773.0020701,62.383,2416664
+Georgia,Upper middle income,GEO,2020,4256.701186,73.919,3722716
+Germany,High income,DEU,2020,46252.6893,80.94146342,83160871
+Ghana,Lower middle income,GHA,2020,2205.529016,64.347,31072945
+Gibraltar,High income,GIB,2020,,0,33691
+Greece,High income,GRC,2020,17647.23269,81.08780488,10700556
+Greenland,High income,GRL,2020,,71.40463415,56367
+Grenada,Upper middle income,GRD,2020,9261.551876,72.426,112519
+Guam,High income,GUM,2020,34624.34013,80.277,168783
+Guatemala,Upper middle income,GTM,2020,4603.339617,74.529,16858333
+Guinea,Low income,GIN,2020,1194.037865,61.962,13132792
+Guinea-Bissau,Low income,GNB,2020,727.5201717,58.634,1967998
+Guyana,Upper middle income,GUY,2020,6955.939217,70.023,786559
+Haiti,Lower middle income,HTI,2020,1272.367992,64.315,11402533
+Honduras,Lower middle income,HND,2020,2389.012431,75.448,9904608
+"Hong Kong SAR, China",High income,HKG,2020,46323.86344,85.38780488,7481800
+Hungary,High income,HUN,2020,15980.10823,75.61707317,9750149
+Iceland,High income,ISL,2020,59264.03409,83.06585366,366463
+India,Lower middle income,IND,2020,1927.707823,69.887,1380004385
+Indonesia,Lower middle income,IDN,2020,3869.588427,71.908,273523621
+"Iran, Islamic Rep.",Lower middle income,IRN,2020,2422.480657,76.87,83992953
+Iraq,Upper middle income,IRQ,2020,4145.862936,70.748,40222503
+Ireland,High income,IRL,2020,85422.54287,82.20487805,4985674
+Isle of Man,High income,IMN,2020,,0,85032
+Israel,High income,ISR,2020,44177.57122,82.7,9215100
+Italy,High income,ITA,2020,31769.96587,82.34390244,59449527
+Jamaica,Upper middle income,JAM,2020,4664.530242,74.586,2961161
+Japan,High income,JPN,2020,40193.25244,84.61560976,125836021
+Jordan,Upper middle income,JOR,2020,4282.765825,74.655,10203140
+Kazakhstan,Upper middle income,KAZ,2020,9122.23343,71.37,18754440
+Kenya,Lower middle income,KEN,2020,1878.580703,66.991,53771300
+Kiribati,Lower middle income,KIR,2020,1653.540297,68.611,119446
+"Korea, Dem. People's Rep.",Low income,PRK,2020,,72.453,25778815
+"Korea, Rep.",High income,KOR,2020,31597.50465,83.42682927,51836239
+Kosovo,Upper middle income,XKX,2020,4310.811183,71.08780488,1790133
+Kuwait,High income,KWT,2020,24811.76971,75.586,4270563
+Kyrgyz Republic,Lower middle income,KGZ,2020,1175.698152,71.8,6579900
+Lao PDR,Lower middle income,LAO,2020,2629.714583,68.219,7275556
+Latvia,High income,LVA,2020,17736.50375,75.38780488,1900449
+Lebanon,Upper middle income,LBN,2020,4649.547646,79.004,6825442
+Lesotho,Lower middle income,LSO,2020,875.353433,54.836,2142252
+Liberia,Low income,LBR,2020,632.9363856,64.423,5057677
+Libya,Upper middle income,LBY,2020,3699.294765,73.082,6871287
+Liechtenstein,High income,LIE,2020,,81.80731707,38137
+Lithuania,High income,LTU,2020,20232.30204,74.92926829,2794885
+Luxembourg,High income,LUX,2020,116356.158,81.74146342,630419
+"Macao SAR, China",High income,MAC,2020,39403.13591,84.37,649342
+Madagascar,Low income,MDG,2020,471.4914963,67.39,27691019
+Malawi,Low income,MWI,2020,636.8205368,64.694,19129955
+Malaysia,Upper middle income,MYS,2020,10412.34898,76.306,32365998
+Maldives,Upper middle income,MDV,2020,6924.105745,79.208,540542
+Mali,Low income,MLI,2020,862.4530188,59.692,20250834
+Malta,High income,MLT,2020,28423.2002,82.65365854,515332
+Marshall Islands,Upper middle income,MHL,2020,4129.850998,0,59194
+Mauritania,Lower middle income,MRT,2020,1701.991163,65.129,4649660
+Mauritius,Upper middle income,MUS,2020,8627.843157,74.17707317,1265740
+Mexico,Upper middle income,MEX,2020,8329.271313,75.131,128932753
+"Micronesia, Fed. Sts.",Lower middle income,FSM,2020,3565.293294,68.002,115021
+Moldova,Upper middle income,MDA,2020,4547.059721,72.006,2620495
+Monaco,High income,MCO,2020,173688.1894,0,39244
+Mongolia,Lower middle income,MNG,2020,4060.950518,70.056,3278292
+Montenegro,Upper middle income,MNE,2020,7677.152226,75.93170732,621306
+Morocco,Lower middle income,MAR,2020,3058.691689,76.901,36910558
+Mozambique,Low income,MOZ,2020,448.5442807,61.387,31255435
+Myanmar,Lower middle income,MMR,2020,1467.604281,67.363,54409794
+Namibia,Upper middle income,NAM,2020,4179.278066,64.045,2540916
+Nauru,High income,NRU,2020,10580.26819,0,10834
+Nepal,Lower middle income,NPL,2020,1155.142854,71.067,29136808
+Netherlands,High income,NLD,2020,52396.03221,81.4097561,17441500
+New Caledonia,High income,NCL,2020,,77.77117073,271960
+New Zealand,High income,NZL,2020,41441.46667,82.05609756,5084300
+Nicaragua,Lower middle income,NIC,2020,1905.261152,74.697,6624554
+Niger,Low income,NER,2020,567.6698923,62.792,24206636
+Nigeria,Lower middle income,NGA,2020,2097.092473,55.018,206139587
+North Macedonia,Upper middle income,MKD,2020,5917.262575,75.69317073,2072531
+Northern Mariana Islands,High income,MNP,2020,,0,57557
+Norway,High income,NOR,2020,67329.67779,83.2097561,5379475
+Oman,High income,OMN,2020,14485.38612,78.078,5106622
+Pakistan,Lower middle income,PAK,2020,1188.859757,67.428,220892331
+Palau,High income,PLW,2020,14243.86469,0,18092
+Panama,Upper middle income,PAN,2020,12509.83529,78.68,4314768
+Papua New Guinea,Lower middle income,PNG,2020,2757.21753,64.725,8947027
+Paraguay,Upper middle income,PRY,2020,5001.07276,74.363,7132530
+Peru,Upper middle income,PER,2020,6126.87454,76.947,32971846
+Philippines,Lower middle income,PHL,2020,3298.829586,71.36,109581085
+Poland,High income,POL,2020,15742.45373,76.6,37899070
+Portugal,High income,PRT,2020,22194.56611,80.97560976,10297081
+Puerto Rico,High income,PRI,2020,31429.86612,80.08746342,3281538
+Qatar,High income,QAT,2020,50124.38594,80.363,2881060
+Romania,Upper middle income,ROU,2020,12915.24305,74.35365854,19257520
+Russian Federation,Upper middle income,RUS,2020,10126.72179,71.33878049,144104080
+Rwanda,Low income,RWA,2020,797.8555207,69.329,12952209
+Samoa,Lower middle income,WSM,2020,4067.843459,73.45,198410
+San Marino,High income,SMR,2020,,0,33938
+Sao Tome and Principe,Lower middle income,STP,2020,2157.840446,70.583,219161
+Saudi Arabia,High income,SAU,2020,20110.31619,75.28,34813867
+Senegal,Lower middle income,SEN,2020,1471.830962,68.213,16743930
+Serbia,Upper middle income,SRB,2020,7730.691746,74.22926829,6899126
+Seychelles,High income,SYC,2020,10764.42042,77.23658537,98462
+Sierra Leone,Low income,SLE,2020,509.376594,55.066,7976985
+Singapore,High income,SGP,2020,59797.75218,83.74390244,5685807
+Sint Maarten (Dutch part),High income,SXM,2020,,0,42310
+Slovak Republic,High income,SVK,2020,19266.51357,76.86585366,5458827
+Slovenia,High income,SVN,2020,25489.50023,80.53170732,2102419
+Solomon Islands,Lower middle income,SLB,2020,2250.601164,73.132,686878
+Somalia,Low income,SOM,2020,438.2551656,57.697,15893219
+South Africa,Upper middle income,ZAF,2020,5655.867654,64.379,59308690
+South Sudan,Low income,SSD,2020,,58.095,11193729
+Spain,High income,ESP,2020,27056.42175,82.33414634,47363419
+Sri Lanka,Lower middle income,LKA,2020,3680.673477,77.144,21919000
+St. Kitts and Nevis,High income,KNA,2020,18437.74892,0,53192
+St. Lucia,Upper middle income,LCA,2020,8804.561048,76.343,183629
+St. Martin (French part),High income,MAF,2020,,80.12195122,38659
+St. Vincent and the Grenadines,Upper middle income,VCT,2020,7278.016297,72.658,110947
+Sudan,Low income,SDN,2020,486.4188163,65.53,43849269
+Suriname,Upper middle income,SUR,2020,4916.605666,71.802,586634
+Sweden,High income,SWE,2020,52274.40879,82.40731707,10353442
+Switzerland,High income,CHE,2020,87100.41482,83.1,8636561
+Syrian Arab Republic,Low income,SYR,2020,,73.651,17500657
+Tajikistan,Lower middle income,TJK,2020,859.1379611,71.301,9537642
+Tanzania,Lower middle income,TZA,2020,1076.469706,65.815,59734213
+Thailand,Upper middle income,THA,2020,7186.874092,77.344,69799978
+Timor-Leste,Lower middle income,TLS,2020,1442.730738,69.712,1318442
+Togo,Low income,TGO,2020,914.9507925,61.34,8278737
+Tonga,Upper middle income,TON,2020,4624.823449,71.018,105697
+Trinidad and Tobago,High income,TTO,2020,15425.63511,73.628,1399491
+Tunisia,Lower middle income,TUN,2020,3521.591948,76.891,11818618
+Turkey,Upper middle income,TUR,2020,8536.43332,77.928,84339067
+Turkmenistan,Upper middle income,TKM,2020,,68.313,6031187
+Turks and Caicos Islands,High income,TCA,2020,23879.92665,0,38718
+Tuvalu,Upper middle income,TUV,2020,4143.109753,0,11792
+Uganda,Low income,UGA,2020,822.0276815,63.713,45741000
+Ukraine,Lower middle income,UKR,2020,3724.938437,71.18512195,44134693
+United Arab Emirates,High income,ARE,2020,36284.55524,78.12,9890400
+United Kingdom,High income,GBR,2020,41059.16881,80.90243902,67215293
+United States,High income,USA,2020,63206.52108,77.28048781,331501080
+Uruguay,High income,URY,2020,15438.41167,78.056,3473727
+Uzbekistan,Lower middle income,UZB,2020,1750.697113,71.848,34232050
+Vanuatu,Lower middle income,VUT,2020,2870.0893,70.623,307150
+Vietnam,Lower middle income,VNM,2020,2785.724161,75.493,97338583
+Virgin Islands (U.S.),High income,VIR,2020,,79.8195122,106290
+West Bank and Gaza,Lower middle income,PSE,2020,3239.731108,74.213,4803269
+"Yemen, Rep.",Low income,YEM,2020,,66.181,29825968
+Zambia,Lower middle income,ZMB,2020,985.132436,64.194,18383956
+Zimbabwe,Lower middle income,ZWE,2020,1214.50982,61.738,14862927

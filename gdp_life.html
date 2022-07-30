@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CS416 Narrative Visualization </title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="d3_script/narration_functions.js"></script>
+    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+</head>
+<body onload='renderGDPLifeChart()'>
+<div id="gdp-life-scene">
+ <h3>GDP graphed with life expectancy</h3>
+        <ul>
+            <li >
+              We see that High income countries have higher life expectancy as expected.
+            </li>
+            <li >
+              We also find that even within those countries the highest GDP does not result in the highest life expectancy
+            </li>
+            <li >
+              Clicking on any country will graph their life expectancy
+            </li>
+        </ul>
+
+        <div id="gdp-life">
+        </div>
+    <a class="btn btn-primary btn-s" href="index.html" role="button">Previous</a>
+    <a class="btn btn-primary btn-s" href="hpp_life.html" role="button">Next</a>
+</div>
+</body>
+</html>

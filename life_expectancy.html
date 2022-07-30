@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CS416 Narrative Visualization </title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="d3_script/narration_functions.js"></script>
+    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+</head>
+<body onload='renderLineChartOfLifeExpectancy()'>
+<div id="life-expectancy">
+ <h3>Life expectancy in years is directly dependant on GDP/person , and Current Health Expenditure per person</h3>
+        <ul>
+            <li >
+                We can now investigate each countries life expectancy and how it has changed over years
+            </li>
+            <li >
+                For this choose a country from the drop and the life expectancy data from World Development Indicators is graphed out
+            </li>
+            <li >
+                There are some countries that do not follow the relative linear increase because of their history. So for example Iraq , Rawanda have seen dramatic decreases in life expectancy during times of war
+            </li>
+
+            <li >
+                We also see that countries like Nigeria, Libya, Ethopia have different rates of life expectancy change in different eras. <br> These can be tied back to political, social changes in the countries that led to an increase GDP and Current Health expenditure.
+                This shows that Life expectancy is a lagging indicator of both of these.
+            </li>
+        </ul>
+        <select id="select-country"></select>
+
+        <div id="life-expectancy-chart">
+        </div>
+
+
+    <a class="btn btn-primary btn-s" href="hpp_life.html" role="button">Previous</a>
+</div>
+</body>
+</html>
